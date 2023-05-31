@@ -1,3 +1,3 @@
-bot_settings = {'token': 'YOUR-BOT-TOKEN'}
+bot_settings = {'token': '6261710637:AAFM8bKPZVbYlSIoB66L2AGdCWGKQopOOag'}
 
-tg_id = YOUR USER ID
+tg_id = 1286103232
